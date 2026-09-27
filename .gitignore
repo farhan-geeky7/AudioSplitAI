@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Uploaded audio
+uploads/
+
+# Generated separated audio
+separated/
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
